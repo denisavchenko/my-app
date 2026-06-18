@@ -1,0 +1,1038 @@
+{
+"type": "FeatureCollection",
+"name": "attractionsWC2026",
+"crs": {
+"type": "name",
+"properties": {
+"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+}
+},
+"features": [
+{
+"type": "Feature",
+"properties": {
+"name": "World of Coca-Cola",
+"city": "Atlanta",
+"country": "USA",
+"category": "museum",
+"description": "Iconic museum of the Coca-Cola brand next to Olympic Park",
+"admission": "paid"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-84.3925521,
+33.7628981
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Georgia Aquarium",
+"city": "Atlanta",
+"country": "USA",
+"category": "aquarium",
+"description": "One of the world's largest aquariums; whale sharks",
+"admission": "paid"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-84.3951173,
+33.7632675
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "National Center for Civil and Human Rights",
+"city": "Atlanta",
+"country": "USA",
+"category": "museum",
+"description": "Interactive civil rights exhibitions downtown",
+"admission": "paid"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-84.3930405,
+33.7640485
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Atlanta Botanical Garden",
+"city": "Atlanta",
+"country": "USA",
+"category": "park",
+"description": "Canopy walk, tropical conservatory in Midtown",
+"admission": "paid"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-84.3732295,
+33.7910822
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Piedmont Park",
+"city": "Atlanta",
+"country": "USA",
+"category": "park",
+"description": "Central green space; skyline views and festivals",
+"admission": "free"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-84.3718862,
+33.7890478
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Atlanta BeltLine Eastside Trail",
+"city": "Atlanta",
+"country": "USA",
+"category": "trail",
+"description": "Converted rail corridor; murals, cafes, walkable",
+"admission": "free"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-84.3638648,
+33.7535124
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Ponce City Market",
+"city": "Atlanta",
+"country": "USA",
+"category": "food_district",
+"description": "Food hall and shops in historic Sears building",
+"admission": "free"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-84.3652032,
+33.7724397
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Krog Street Market",
+"city": "Atlanta",
+"country": "USA",
+"category": "food_district",
+"description": "Trendy food hall on the BeltLine",
+"admission": "free"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-84.3640149,
+33.7569916
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Fox Theatre",
+"city": "Atlanta",
+"country": "USA",
+"category": "landmark",
+"description": "1920s Moorish-style performing arts venue",
+"admission": "paid"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-84.3855618,
+33.7726429
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "High Museum of Art",
+"city": "Atlanta",
+"country": "USA",
+"category": "museum",
+"description": "Premier art museum on Peachtree Street",
+"admission": "paid"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-84.3862715,
+33.7895458
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Little Five Points",
+"city": "Atlanta",
+"country": "USA",
+"category": "neighborhood",
+"description": "Bohemian district; vintage shops, live music, street art",
+"admission": "free"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-84.3491749,
+33.7649773
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Zoo Atlanta",
+"city": "Atlanta",
+"country": "USA",
+"category": "zoo",
+"description": "Giant pandas and historic Grant Park setting",
+"admission": "paid"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-84.3710376,
+33.732598
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Oakland Cemetery",
+"city": "Atlanta",
+"country": "USA",
+"category": "landmark",
+"description": "Victorian garden cemetery; Margaret Mitchell grave",
+"admission": "free"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-84.3721635,
+33.7486896
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "College Football Hall of Fame",
+"city": "Atlanta",
+"country": "USA",
+"category": "museum",
+"description": "Interactive football museum near stadium",
+"admission": "paid"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-84.3953962,
+33.7600839
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Wynwood Walls",
+"city": "Miami",
+"country": "USA",
+"category": "landmark",
+"description": "World-famous outdoor street art district",
+"admission": "free"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-80.1996583,
+25.8011385
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Little Havana - Calle Ocho",
+"city": "Miami",
+"country": "USA",
+"category": "neighborhood",
+"description": "Cuban culture, domino park, cigars, live music",
+"admission": "free"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-80.2267748,
+25.7653758
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Vizcaya Museum and Gardens",
+"city": "Miami",
+"country": "USA",
+"category": "museum",
+"description": "Italian Renaissance villa on Biscayne Bay",
+"admission": "paid"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-80.211577,
+25.7446992
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "South Beach - Ocean Drive",
+"city": "Miami Beach",
+"country": "USA",
+"category": "beach",
+"description": "Art Deco strip, beaches and nightlife",
+"admission": "free"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-80.1323001,
+25.7704415
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Perez Art Museum Miami",
+"city": "Miami",
+"country": "USA",
+"category": "museum",
+"description": "Contemporary art on Biscayne Bay waterfront",
+"admission": "paid"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-80.1863392,
+25.7860327
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Bayside Marketplace",
+"city": "Miami",
+"country": "USA",
+"category": "shopping",
+"description": "Waterfront shops and dining near Bayfront Park",
+"admission": "free"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-80.1871026,
+25.7782365
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Miami Design District",
+"city": "Miami",
+"country": "USA",
+"category": "shopping",
+"description": "Luxury boutiques, design stores and public art",
+"admission": "free"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-80.1912991,
+25.8126438
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Brickell City Centre",
+"city": "Miami",
+"country": "USA",
+"category": "shopping",
+"description": "Upscale mall and dining in financial district",
+"admission": "free"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-80.1929123,
+25.767392
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Lincoln Road Mall",
+"city": "Miami Beach",
+"country": "USA",
+"category": "shopping",
+"description": "Pedestrian outdoor mall in South Beach",
+"admission": "free"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-80.1365185,
+25.7903042
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Coconut Grove",
+"city": "Miami",
+"country": "USA",
+"category": "neighborhood",
+"description": "Waterfront village; CocoWalk, sailing, cafes",
+"admission": "free"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-80.2569947,
+25.7126013
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Venetian Pool",
+"city": "Coral Gables",
+"country": "USA",
+"category": "landmark",
+"description": "Historic 1920s coral rock swimming pool",
+"admission": "paid"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-80.2731602,
+25.7457795
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Jungle Island",
+"city": "Miami",
+"country": "USA",
+"category": "zoo",
+"description": "Tropical theme park with exotic animals",
+"admission": "paid"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-80.1746936,
+25.7861775
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Miami Seaquarium",
+"city": "Miami",
+"country": "USA",
+"category": "aquarium",
+"description": "Marine park on Virginia Key",
+"admission": "paid"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-80.1639436,
+25.7348168
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "CN Tower",
+"city": "Toronto",
+"country": "Canada",
+"category": "landmark",
+"description": "553m tower; EdgeWalk and panoramic views",
+"admission": "paid"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-79.3870872,
+43.6425637
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Ripley's Aquarium of Canada",
+"city": "Toronto",
+"country": "Canada",
+"category": "aquarium",
+"description": "Shark tunnel at base of CN Tower",
+"admission": "paid"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-79.3861266,
+43.6424836
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Royal Ontario Museum",
+"city": "Toronto",
+"country": "Canada",
+"category": "museum",
+"description": "Natural history and world cultures; crystal facade",
+"admission": "paid"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-79.3946988,
+43.6676565
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Art Gallery of Ontario",
+"city": "Toronto",
+"country": "Canada",
+"category": "museum",
+"description": "Major art collection on Dundas Street",
+"admission": "paid"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-79.39278,
+43.6536128
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Distillery District",
+"city": "Toronto",
+"country": "Canada",
+"category": "neighborhood",
+"description": "Victorian industrial complex; galleries, cafes, patios",
+"admission": "free"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-79.3592001,
+43.6503278
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "St. Lawrence Market",
+"city": "Toronto",
+"country": "Canada",
+"category": "food_district",
+"description": "Historic market; peameal bacon sandwiches",
+"admission": "free"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-79.3715745,
+43.6487389
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Kensington Market",
+"city": "Toronto",
+"country": "Canada",
+"category": "neighborhood",
+"description": "Multicultural bohemian market neighborhood",
+"admission": "free"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-79.4022604,
+43.6552136
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Harbourfront Centre",
+"city": "Toronto",
+"country": "Canada",
+"category": "landmark",
+"description": "Waterfront culture; concerts, food, lake views",
+"admission": "free"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-79.3811417,
+43.6398212
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Casa Loma",
+"city": "Toronto",
+"country": "Canada",
+"category": "landmark",
+"description": "Gothic Revival castle with gardens",
+"admission": "paid"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-79.4094159,
+43.6781015
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "High Park",
+"city": "Toronto",
+"country": "Canada",
+"category": "park",
+"description": "Cherry blossoms, zoo, trails in west Toronto",
+"admission": "free"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-79.4637945,
+43.6462813
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Toronto Islands",
+"city": "Toronto",
+"country": "Canada",
+"category": "park",
+"description": "Ferry to beaches, bike paths and skyline views",
+"admission": "paid"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-79.3942999,
+43.6228766
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Hockey Hall of Fame",
+"city": "Toronto",
+"country": "Canada",
+"category": "museum",
+"description": "Stanley Cup and interactive hockey exhibits",
+"admission": "paid"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-79.377302,
+43.6469964
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Eaton Centre",
+"city": "Toronto",
+"country": "Canada",
+"category": "shopping",
+"description": "Downtown landmark mall under glass galleria",
+"admission": "free"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-79.3807928,
+43.6541457
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Queen Street West",
+"city": "Toronto",
+"country": "Canada",
+"category": "neighborhood",
+"description": "Fashion, galleries and indie shops",
+"admission": "free"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-79.3994346,
+43.6481269
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Graffiti Alley",
+"city": "Toronto",
+"country": "Canada",
+"category": "landmark",
+"description": "Rush Lane legal street art corridor",
+"admission": "free"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-79.3979231,
+43.6480305
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Ontario Place",
+"city": "Toronto",
+"country": "Canada",
+"category": "park",
+"description": "Waterfront park; Trillium Park and Cinesphere",
+"admission": "free"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-79.4185614,
+43.6333414
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Little Italy - College Street",
+"city": "Toronto",
+"country": "Canada",
+"category": "food_district",
+"description": "Italian cafes, patios and World Cup fan atmosphere",
+"admission": "free"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-79.418237,
+43.6555051
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Rogers Centre",
+"city": "Toronto",
+"country": "Canada",
+"category": "sports_culture",
+"description": "Retractable-roof stadium; Blue Jays and events",
+"admission": "paid"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-79.3891976,
+43.6416598
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Trinity Bellwoods Park",
+"city": "Toronto",
+"country": "Canada",
+"category": "park",
+"description": "Popular downtown park; picnic and people-watching",
+"admission": "free"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-79.4139122,
+43.647644
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Martin Luther King Jr. National Historical Park",
+"city": "Atlanta",
+"country": "USA",
+"category": "landmark",
+"description": "Birth home, Ebenezer Baptist Church and civil rights exhibits",
+"admission": "free"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-84.3722,
+33.7561
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "SkyView Atlanta",
+"city": "Atlanta",
+"country": "USA",
+"category": "viewpoint",
+"description": "200-foot Ferris wheel over Centennial Olympic Park",
+"admission": "paid"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-84.3925,
+33.7589
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Jimmy Carter Presidential Library",
+"city": "Atlanta",
+"country": "USA",
+"category": "museum",
+"description": "Presidential archives, museum and Japanese garden",
+"admission": "paid"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-84.3295,
+33.7672
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Mercedes-Benz Stadium",
+"city": "Atlanta",
+"country": "USA",
+"category": "sports_culture",
+"description": "World Cup venue; architecture tours on non-match days",
+"admission": "paid"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-84.401,
+33.7554
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Phillip and Patricia Frost Museum of Science",
+"city": "Miami",
+"country": "USA",
+"category": "museum",
+"description": "Planetarium, aquarium and rooftop views in Museum Park",
+"admission": "paid"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-80.1872,
+25.7853
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Art Deco Historic District",
+"city": "Miami Beach",
+"country": "USA",
+"category": "landmark",
+"description": "Pastel 1930s hotels along Ocean Drive and Collins Ave",
+"admission": "free"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-80.13,
+25.781
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Crandon Park Beach",
+"city": "Miami",
+"country": "USA",
+"category": "beach",
+"description": "White sand beach on Key Biscayne island",
+"admission": "paid"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-80.155,
+25.731
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Hard Rock Guitar Hotel",
+"city": "Hollywood",
+"country": "USA",
+"category": "landmark",
+"description": "Guitar-shaped hotel and casino near World Cup stadium",
+"admission": "free"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-80.2095,
+26.0515
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Wynwood Marketplace",
+"city": "Miami",
+"country": "USA",
+"category": "food_district",
+"description": "Weekend street food market in Wynwood arts district",
+"admission": "free"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-80.199,
+25.801
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Ball and Chain",
+"city": "Miami",
+"country": "USA",
+"category": "nightlife",
+"description": "Historic 1935 salsa bar and live music on Calle Ocho",
+"admission": "paid"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-80.2195,
+25.7655
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "TIFF Bell Lightbox",
+"city": "Toronto",
+"country": "Canada",
+"category": "museum",
+"description": "Toronto International Film Festival headquarters and cinemas",
+"admission": "paid"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-79.3905,
+43.6465
+]
+}
+}
+]
+}

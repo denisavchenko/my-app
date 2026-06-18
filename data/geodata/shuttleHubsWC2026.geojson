@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "shuttleHubsWC2026",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "MLK Jr. Plaza Metrorail Station", "city": "Miami", "country": "USA", "type": "game_day_shuttle_hub", "service": "Miami Game Day Express", "cost": "free_shuttle", "parking": "none", "ticket_required": true, "note": "Green Line; Metrobus 27/27A, 62; rideshare zone" }, "geometry": { "type": "Point", "coordinates": [ -80.2449641, 25.7994036 ] } },
+{ "type": "Feature", "properties": { "name": "Golden Glades Multimodal Transit Station", "city": "Miami Gardens", "country": "USA", "type": "game_day_shuttle_hub", "service": "Miami Game Day Express", "cost": "free_shuttle", "parking": "prepaid_fifa", "ticket_required": true, "note": "Tri-Rail connection; Metrobus 75/75A, 77, 95 routes" }, "geometry": { "type": "Point", "coordinates": [ -80.2167844, 25.921523 ] } },
+{ "type": "Feature", "properties": { "name": "Aventura Brightline Station", "city": "Aventura", "country": "USA", "type": "game_day_shuttle_hub", "service": "Miami Game Day Express", "cost": "free_shuttle", "parking": "paid_on_site", "ticket_required": true, "note": "Brightline from Orlando, Fort Lauderdale, West Palm Beach" }, "geometry": { "type": "Point", "coordinates": [ -80.147264, 25.9584427 ] } },
+{ "type": "Feature", "properties": { "name": "Seminole Hard Rock Hotel and Casino", "city": "Hollywood", "country": "USA", "type": "game_day_shuttle_hub", "service": "Miami Game Day Express", "cost": "free_shuttle", "parking": "paid_lot_70", "ticket_required": true, "note": "Paid parking at Lot 70; rideshare drop-off zone" }, "geometry": { "type": "Point", "coordinates": [ -80.2112423, 26.0517276 ] } },
+{ "type": "Feature", "properties": { "name": "Uber Shuttle - Brickell", "city": "Miami", "country": "USA", "type": "rideshare_shuttle", "service": "Uber Shuttle", "cost": "45_usd", "parking": "n/a", "ticket_required": true, "note": "Shared shuttle pickup near Brickell; reserve in Uber app" }, "geometry": { "type": "Point", "coordinates": [ -80.1929123, 25.767392 ] } },
+{ "type": "Feature", "properties": { "name": "Uber Shuttle - Miami Beach", "city": "Miami Beach", "country": "USA", "type": "rideshare_shuttle", "service": "Uber Shuttle", "cost": "45_usd", "parking": "n/a", "ticket_required": true, "note": "Shared shuttle pickup near Miami Beach Convention Center" }, "geometry": { "type": "Point", "coordinates": [ -80.133515, 25.7955257 ] } },
+{ "type": "Feature", "properties": { "name": "Adrienne Arsht Center Metromover", "city": "Miami", "country": "USA", "type": "water_taxi_connection", "service": "Miami Beach Water Taxi", "cost": "varies", "parking": "n/a", "ticket_required": false, "note": "Water taxi from Miami Beach; connect to Metromover for Fan Fest at Bayfront Park" }, "geometry": { "type": "Point", "coordinates": [ -80.1900593, 25.7876286 ] } }
+]
+}

@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "fanFestivals",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "FIFA Fan Festival Atlanta", "city": "Atlanta", "country": "USA", "venue": "Centennial Olympic Park", "address": "265 Park Ave SW, Atlanta, GA 30313", "type": "official_fan_festival", "dates": "2026-06-11 to 2026-07-15", "duration_days": 18, "admission": "free_registration", "host": "City of Atlanta / GWCCA" }, "geometry": { "type": "Point", "coordinates": [ -84.3934531, 33.7601442 ] } },
+{ "type": "Feature", "properties": { "name": "Georgia Street Market", "city": "Atlanta", "country": "USA", "venue": "Centennial Olympic Park", "address": "265 Park Ave SW, Atlanta, GA 30313", "type": "festival_zone", "zone": "Georgia Street", "description": "Regional food vendors, artists and makers marketplace", "parent_festival": "FIFA Fan Festival Atlanta" }, "geometry": { "type": "Point", "coordinates": [ -84.3928, 33.7595 ] } },
+{ "type": "Feature", "properties": { "name": "FIFA Fan Festival Miami", "city": "Miami", "country": "USA", "venue": "Bayfront Park", "address": "301 Biscayne Blvd, Miami, FL 33132", "type": "official_fan_festival", "dates": "2026-06-13 to 2026-07-05", "duration_days": 23, "admission": "free", "host": "Miami World Cup Host Committee" }, "geometry": { "type": "Point", "coordinates": [ -80.1861658, 25.7753796 ] } },
+{ "type": "Feature", "properties": { "name": "FIFA Fan Festival Toronto - Fort York", "city": "Toronto", "country": "Canada", "venue": "Fort York National Historic Site", "address": "250 Fort York Blvd, Toronto, ON M5V 3K9", "type": "official_fan_festival", "dates": "2026-06-11 to 2026-07-19", "duration_days": 22, "admission": "free_registration", "host": "City of Toronto" }, "geometry": { "type": "Point", "coordinates": [ -79.4035519, 43.6388527 ] } },
+{ "type": "Feature", "properties": { "name": "FIFA Fan Festival Toronto - The Bentway", "city": "Toronto", "country": "Canada", "venue": "The Bentway", "address": "250 Fort York Blvd, Toronto, ON M5V 3K9", "type": "official_fan_festival", "dates": "2026-06-11 to 2026-07-19", "duration_days": 22, "admission": "free_registration", "host": "The Bentway Conservancy", "description": "Urban park below Gardiner Expressway; art, culture and community programming" }, "geometry": { "type": "Point", "coordinates": [ -79.4067364, 43.6376581 ] } }
+]
+}

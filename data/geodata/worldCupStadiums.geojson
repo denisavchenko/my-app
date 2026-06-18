@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "worldCupStadiums",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Atlanta Stadium", "city": "Atlanta", "country": "USA", "capacity": 71000 }, "geometry": { "type": "Point", "coordinates": [ -84.4, 33.75556 ] } },
+{ "type": "Feature", "properties": { "name": "Miami Stadium", "city": "Miami Gardens", "country": "USA", "capacity": 64767 }, "geometry": { "type": "Point", "coordinates": [ -80.23889, 25.95806 ] } },
+{ "type": "Feature", "properties": { "name": "Toronto Stadium", "city": "Toronto", "country": "Canada", "capacity": 45500 }, "geometry": { "type": "Point", "coordinates": [ -79.4189, 43.6328 ] } }
+]
+}

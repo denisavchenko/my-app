@@ -1,0 +1,552 @@
+{
+"type": "FeatureCollection",
+"name": "experiencesWC2026",
+"crs": {
+"type": "name",
+"properties": {
+"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+}
+},
+"features": [
+{
+"type": "Feature",
+"properties": {
+"name": "Sweet Auburn Historic District",
+"city": "Atlanta",
+"country": "USA",
+"category": "culture",
+"description": "Historic Black business district; APEX Museum",
+"admission": "free"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-84.379,
+33.7555
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Trap Music Museum",
+"city": "Atlanta",
+"country": "USA",
+"category": "museum",
+"description": "Hip-hop culture museum in Bankhead",
+"admission": "paid"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-84.475,
+33.772
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Buford Highway Food Corridor",
+"city": "Atlanta",
+"country": "USA",
+"category": "food_district",
+"description": "International eats: Korean, Vietnamese, Mexican along I-85",
+"admission": "free"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-84.283,
+33.889
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Center for Puppetry Arts",
+"city": "Atlanta",
+"country": "USA",
+"category": "museum",
+"description": "Jim Henson collection and puppet performances",
+"admission": "paid"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-84.3895,
+33.792
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Atlanta History Center",
+"city": "Atlanta",
+"country": "USA",
+"category": "museum",
+"description": "Cyclorama, gardens and Southern history in Buckhead",
+"admission": "paid"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-84.386,
+33.842
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "East Atlanta Village",
+"city": "Atlanta",
+"country": "USA",
+"category": "nightlife",
+"description": "Indie bars, live music and local restaurants",
+"admission": "free"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-84.345,
+33.741
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Chastain Park Amphitheatre",
+"city": "Atlanta",
+"country": "USA",
+"category": "nightlife",
+"description": "Outdoor summer concerts in Buckhead",
+"admission": "paid"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-84.378,
+33.876
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Stone Mountain Park",
+"city": "Atlanta",
+"country": "USA",
+"category": "nature",
+"description": "Granite monolith, laser show and hiking trails",
+"admission": "paid"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-84.145,
+33.808
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Atlantic Station",
+"city": "Atlanta",
+"country": "USA",
+"category": "shopping",
+"description": "Mixed-use district; shops, cinema and dining",
+"admission": "free"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-84.395,
+33.791
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Mercedes-Benz Stadium Fan Plaza",
+"city": "Atlanta",
+"country": "USA",
+"category": "sports_culture",
+"description": "Pre-match fan zone and The Home Depot Backyard",
+"admission": "free"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-84.4005,
+33.7545
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "South Pointe Park Pier",
+"city": "Miami Beach",
+"country": "USA",
+"category": "viewpoint",
+"description": "Pier with skyline views at tip of South Beach",
+"admission": "free"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-80.133,
+25.77
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Miami Circle Archaeological Site",
+"city": "Miami",
+"country": "USA",
+"category": "landmark",
+"description": "Ancient Tequesta ceremonial site on the riverfront",
+"admission": "free"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-80.1875,
+25.7705
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Miracle Mile Coral Gables",
+"city": "Coral Gables",
+"country": "USA",
+"category": "shopping",
+"description": "European-style boulevard with cafes and boutiques",
+"admission": "free"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-80.268,
+25.749
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Haulover Beach Park",
+"city": "Miami Beach",
+"country": "USA",
+"category": "beach",
+"description": "Popular beach; famous food trucks at Haulover Pier",
+"admission": "paid"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-80.12,
+25.914
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Everglades Airboat Tours",
+"city": "Miami",
+"country": "USA",
+"category": "nature",
+"description": "Gateway to Everglades; alligators and wetlands",
+"admission": "paid"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-80.476,
+25.761
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Miami Marine Stadium",
+"city": "Miami",
+"country": "USA",
+"category": "landmark",
+"description": "Restored brutalist waterfront concert venue on Virginia Key",
+"admission": "paid"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-80.17,
+25.742
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Espanola Way",
+"city": "Miami Beach",
+"country": "USA",
+"category": "food_district",
+"description": "Mediterranean-style pedestrian village in South Beach",
+"admission": "free"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-80.134,
+25.787
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Miami Beach Botanical Garden",
+"city": "Miami Beach",
+"country": "USA",
+"category": "park",
+"description": "Free tropical garden near convention center",
+"admission": "free"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-80.1305,
+25.794
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Polson Pier",
+"city": "Toronto",
+"country": "Canada",
+"category": "viewpoint",
+"description": "Waterfront concerts and CN Tower skyline photos",
+"admission": "paid"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-79.348,
+43.641
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Scarborough Bluffs",
+"city": "Toronto",
+"country": "Canada",
+"category": "nature",
+"description": "Dramatic 90m cliffs above Lake Ontario",
+"admission": "free"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-79.255,
+43.711
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Allan Gardens Conservatory",
+"city": "Toronto",
+"country": "Canada",
+"category": "park",
+"description": "Victorian palm house and tropical plants downtown",
+"admission": "free"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-79.374,
+43.661
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Stackt Market",
+"city": "Toronto",
+"country": "Canada",
+"category": "food_district",
+"description": "Shipping-container market; food, design and events",
+"admission": "free"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-79.4105,
+43.6405
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Exhibition Place",
+"city": "Toronto",
+"country": "Canada",
+"category": "landmark",
+"description": "Historic fairgrounds around World Cup stadium",
+"admission": "free"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-79.418,
+43.633
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Liberty Village",
+"city": "Toronto",
+"country": "Canada",
+"category": "neighborhood",
+"description": "Trendy lofts, breweries and patios near stadium",
+"admission": "free"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-79.42,
+43.6385
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Roncesvalles Village",
+"city": "Toronto",
+"country": "Canada",
+"category": "food_district",
+"description": "Polish bakeries, patios and street festivals",
+"admission": "free"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-79.449,
+43.648
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Toronto Music Garden",
+"city": "Toronto",
+"country": "Canada",
+"category": "park",
+"description": "Waterfront garden inspired by Bach suites",
+"admission": "free"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-79.386,
+43.637
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Rebel Nightclub",
+"city": "Toronto",
+"country": "Canada",
+"category": "nightlife",
+"description": "Major waterfront concert and club venue",
+"admission": "paid"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-79.355,
+43.6415
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Chinatown Spadina",
+"city": "Toronto",
+"country": "Canada",
+"category": "food_district",
+"description": "Dim sum, bubble tea and Asian groceries",
+"admission": "free"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-79.398,
+43.653
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Evergreen Brick Works",
+"city": "Toronto",
+"country": "Canada",
+"category": "culture",
+"description": "Sustainable community hub in restored brick factory",
+"admission": "free"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-79.366,
+43.684
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"name": "Sugar Beach",
+"city": "Toronto",
+"country": "Canada",
+"category": "beach",
+"description": "Pink umbrellas urban beach on the waterfront",
+"admission": "free"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-79.37,
+43.642
+]
+}
+}
+]
+}
