@@ -11,7 +11,22 @@
     <select id="basemap">
       <option value="osm">Карта</option>
       <option value="satellite">Спутник</option>
+      <option value="mapbox">Mapbox</option>
     </select>
+    <div id="legend">
+      <strong>Легенда</strong>
+      <ul>
+        <li><span class="leg-color leg-iso-20"></span>Изохрона 20 мин</li>
+        <li><span class="leg-color leg-iso-40"></span>Изохрона 40 мин</li>
+        <li><span class="leg-color leg-iso-60"></span>Изохрона 60 мин</li>
+        <li><img id="leg-aeroports" alt="">Аэропорты</li>
+        <li><span class="leg-color leg-stadium"></span>Стадионы ЧМ</li>
+        <li><img id="leg-fanfest" alt="">Фан-фестивали</li>
+        <li><img id="leg-shuttle" alt="">Шаттл-хабы</li>
+        <li><img id="leg-attractions" alt="">Достопримечательности</li>
+        <li><img id="leg-experiences" alt="">Впечатления</li>
+      </ul>
+    </div>
     <div id="popup" class="popup">
       <button id="popup-closer" type="button">&times;</button>
       <div id="popup-content"></div>

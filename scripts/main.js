@@ -83,6 +83,8 @@ function isochroneStyle(feature) {
   });
 }
 
+const mapboxToken = import.meta.env.VITE_MAPBOX_TOKEN;
+
 const basemaps = {
   //стандартная карта
   osm: new TileLayer({
@@ -93,6 +95,15 @@ const basemaps = {
   satellite: new TileLayer({
     source: new XYZ({
       url: 'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}',
+    }),
+    visible: false,
+  }),
+
+  // кастомная подложка Mapbox
+  mapbox: new TileLayer({
+    source: new XYZ({
+      url: 'https://api.mapbox.com/styles/v1/denisavchenko/cmqjvc1dg001101sabpyk2fu8/tiles/{z}/{x}/{y}?access_token=' + mapboxToken,
+      attributions: '© Mapbox © OpenStreetMap',
     }),
     visible: false,
   }),
@@ -108,6 +119,12 @@ function setBasemap(name) {
 document.getElementById('basemap').addEventListener('change', (event) => {
   setBasemap(event.target.value);
 });
+
+document.getElementById('leg-aeroports').src = aeroportsIcon;
+document.getElementById('leg-fanfest').src = fanFestivalsIcon;
+document.getElementById('leg-shuttle').src = shuttleHubsIcon;
+document.getElementById('leg-attractions').src = attractionsIcon;
+document.getElementById('leg-experiences').src = experiencesIcon;
 
 const map = new Map({
   target: 'map',
